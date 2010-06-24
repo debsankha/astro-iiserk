@@ -1,0 +1,26 @@
+application: astro-iiserk
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+
+- url: /news
+  script: hello2.py
+
+- url: /sign
+  script: hello2.py
+
+- url: /edit
+  script: hello2.py
+
+- url: /login
+  script: hello2.py
+
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+
+- url: /
+  static_dir: static
+

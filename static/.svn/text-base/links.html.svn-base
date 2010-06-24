@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<title>
+			External Links - IKAM
+		</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+
+	<body>
+		<div id="header">
+			<img src="iiserk.jpg" alt="IISERK Logo" align="right" />
+			<h1>IISER Kol Astronomy and Model-making Club</h1>
+			<ul>
+				<li><a href="index.html">Home</a>&nbsp;</li>
+				<li><a href="news">News</a>&nbsp;</li>
+				<li><a href="members.html">Members</a>&nbsp;</li>
+				<li><a href="stuff.html">Stuff</a>&nbsp;</li>
+				<li><i><a href="links.html">Links</a>&nbsp;</i></li>
+			</ul>
+		</div>
+
+		<div id="content">
+			<h2>Some Useful External Links</h2>
+			<h3>Astronomy Related</h3>
+			<ul>
+				<li>Wikipedia Article on Amateur Astronomy- <a
+					href="http://en.wikipedia.org/wiki/Amateur_astronomy">http://en.wikipedia.org/wiki/Amateur_astronomy</a></li>
+				<li>Stargazer Beginner's Guide- <a href="http://stardate.org/nightsky/bguide/">http://stardate.org/nightsky/bguide/</a></li>
+			</ul>
+
+			<h3>Model Building Related</h3>
+			<ul>
+				<li>Tutorial on Atmel AVR Microcontrollers for beginners- <a href="http://www.avrbeginners.net">http://www.avrbeginners.net</a></li>
+				<li>Tutorial on C Programming for ATmega microcontrollers<a
+					href="http://www2.tech.purdue.edu/ecet/courses/referencematerial/atmel/">
+					http://www2.tech.purdue.edu/ecet/courses/referencematerial/atmel/</a></li>
+				<li>Advanced stuff on Atmel AVR Microcontrollers- <a href="http://www.avrfreaks.net">http://www.avrfreaks.net</a></li>
+			</ul>
+		</div>
+
+		<div id="footer">
+			<p>
+			Mailing List: <a href="mailto:astroiiserk@googlegroups.com">astroiiserk@googlegroups.com</a>&nbsp;&nbsp;
+			Website Feedback: <a href="mailto:www@iiserk.net">www@iiserk.net</a><br/>
+			<p class="small">Disclaimer: All views expressed in this site are those of IKAM Club members and are unrelated to IISERK's official
+			policy.</p>
+			Last updated: <i>Sat Jan 23, 2010</i>
+			<p>
+		</div>
+
+	</body>
+
+</html>
